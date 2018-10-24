@@ -1,4 +1,4 @@
-# X-Team NN Rules
+# X-Team 51 Rules
 
 These rules establish how our team will assign tasks,
 track progress on each task, and communicate with each other 
@@ -19,7 +19,8 @@ same page as far as completion of the assignment.
 
 ## How will will communicate difficulties with a task assigned to us
 
-
+We will communicate primarily through texting. If someone is having difficulty with a task, 
+they will be able to message other team members for assistance. 
 
 ## How we will back up each other to ensure that deadlines are not missed
 
