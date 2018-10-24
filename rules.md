@@ -23,7 +23,7 @@ We will communicate primarily through texting. If someone is having difficulty w
 they will be able to message other team members for assistance. 
 
 ## How we will back up each other to ensure that deadlines are not missed
-
+We will send texts to each other about deadline reminders and put the dates in our calenders. We will also create mini deadlines to meet and check on each other's progress.
 
 
 ## Add any other rules that your team establishes to help each other work effectively together
