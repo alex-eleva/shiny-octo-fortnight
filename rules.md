@@ -27,6 +27,9 @@ We will send texts to each other about deadline reminders and put the dates in o
 
 
 ## Add any other rules that your team establishes to help each other work effectively together
+We have to follow up with each other on our work and not be afraid to communicate.
+If a meeting can't be made, a text must be sent to the group 24 hours in advance.
+
 
 
 
