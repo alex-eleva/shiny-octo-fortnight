@@ -29,12 +29,10 @@ Be sure to submit corresponding image files, i.e. figure1.png (or figure1.jpg) f
 
 ## Problem Description
 
-Briefly describe a problem that your team would like to solve.  
-Describe at a high level a program that could solve that problem.
+A problem that our team would like to solve is the problem of managing/scheduling/prioritizing various asks effectively, in order to be efficient in our day to day lives. 
 
-A problem that our team would like to solve is the problem of managing/scheduling/prioritizing various events and tasks effectively, in order to be efficient in our day to day lives. 
+Our program aims to solve that problem by allowing users to schedule tasks, and prioritize them based on different criteria (type of event, date, importance, etc). Users will be able to create an account, which they can use to login and create their own tasks and add it to a to-do list that they can update. They will be able to mark their progress by checking off items and deleting them from the list. Furthermore, multiple lists will be able to be created to group tasks that are of the same type. 
 
-Our program aims to solve that problem by allowing users to schedule events and tasks, and prioritize them based on different criteria (type of event, date, etc)
 ## Questions to answer for Exercise #2
 
 1. Name: Task Manager
@@ -59,7 +57,15 @@ The GUI will display ouput based on the user's input.
 
 
 Name each interface or class and briefly describe its function or purpose.
-
+ * Tast Class
+ The event class will be used to create event objects. Events will have certain properties, including name, description, type, priority, and date.
+ 
+ * User Class
+ The user class will store information of different users that use the program, storing their username and password, as well as potentially their profile information.
+ 
+ * List Class
+ Keeps track of verious task lists. 
+ 
 
 
 
