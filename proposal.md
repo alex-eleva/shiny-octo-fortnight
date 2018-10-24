@@ -55,15 +55,19 @@ The GUI will display ouput based on the user's input.
 **5. Types List: Break your solution idea down into units that you think can be implemented with a single class.**
 
  * Task Class
+ 
  The event class will be used to create event objects. Events will have certain properties, including name, description, type, priority, and date.
  
  * User Class
+ 
  The user class will store information of different users that use the program, storing their username and password, as well as potentially their profile information.
  
  * List Class
+ 
  Keeps track of verious task lists. 
  
  * Custom Priority Queue
+ 
  We are planning to implement a custom priority queue that is able to sort the tasks according to certain criteria. We have not fully hashed out the specifics of the data structure, but our goal is to have several of the key methods (enqueue and dequeue to perform based on more than just comparing key values). 
 
 
