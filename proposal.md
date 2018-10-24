@@ -31,33 +31,28 @@ Be sure to submit corresponding image files, i.e. figure1.png (or figure1.jpg) f
 
 A problem that our team would like to solve is the problem of managing/scheduling/prioritizing various asks effectively, in order to be efficient in our day to day lives. 
 
-Our program aims to solve that problem by allowing users to schedule tasks, and prioritize them based on different criteria (type of event, date, importance, etc). Users will be able to create an account, which they can use to login and create their own tasks and add it to a to-do list that they can update. They will be able to mark their progress by checking off items and deleting them from the list. Furthermore, multiple lists will be able to be created to group tasks that are of the same type. 
+Our program aims to solve that problem by allowing users to schedule tasks, and prioritize them based on different criteria (type of event, date, importance, etc). Users will be able to create an account, which they can use to login and create their own tasks and add it to a to-do list that they can update. They will be able to mark their progress by checking off items and deleting them from the list. Furthermore, multiple lists will be able to be created to group tasks that are of the same type.
 
-## Questions to answer for Exercise #2
+We plan to test our program by testing different classes and their functionality. We are most likely going to use JUnit to achieve this. 
 
-1. Name: Task Manager
+**1. Name: Task Manager**
 
-
-2. Output: Describe the output your program will produce.  Include and example format of the output produced.
+**2. Output: Describe the output your program will produce.  Include and example format of the output produced.**
 
 A GUI "to-do list" arranged in the order that the user chooses to prioritize the events in.
 
-
-3. Input: Describe the data that is needed to solve your problem. Include an example format of the input data.
+**3. Input: Describe the data that is needed to solve your problem. Include an example format of the input data.**
 
 The user will input the information needed in GUI pop up.
 
+**4. User Interface: Describe a user interface for your program.  Use text menus or a simple graphic user interface.**
 
-4. User Interface: Describe a user interface for your program.  Use text menus or a simple graphic user interface.
 We plan on using a simple graphic user interface so different users can sign into their account and see their personal list.
 The GUI will display ouput based on the user's input.
 
-5. Types List: Break your solution idea down into units that you think can be implemented with a single class.
+**5. Types List: Break your solution idea down into units that you think can be implemented with a single class.**
 
-
-
-Name each interface or class and briefly describe its function or purpose.
- * Tast Class
+ * Task Class
  The event class will be used to create event objects. Events will have certain properties, including name, description, type, priority, and date.
  
  * User Class
