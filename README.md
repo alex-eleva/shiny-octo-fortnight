@@ -17,6 +17,8 @@
    
    * How long did it take your team to complete this exercise? 
    
+   1 hour 30 minutes
+   
 
 ## Table of Contents
 
