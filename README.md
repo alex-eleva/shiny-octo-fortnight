@@ -13,11 +13,11 @@
      
    * When did you complete this exercise?
    
-   October 24, 2018
+       * October 24, 2018
    
    * How long did it take your team to complete this exercise? 
    
-   1 hour 30 minutes
+       * 1 hour 30 minutes
    
 
 ## Table of Contents
