@@ -1,4 +1,4 @@
-# X-Team 51 Project Proposal
+# X-Team 51 Task Manager
 
 See https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#code for tips on using *Markdown* tags to format __.md__ files
 
@@ -35,20 +35,22 @@ Our program aims to solve that problem by allowing users to schedule tasks, and 
 
 ## Questions to answer for Exercise #2
 
-1. Name: Give your project proposal a name (and edit the top line of this file)
-
+1. Name: Task Manager
 
 
 2. Output: Describe the output your program will produce.  Include and example format of the output produced.
 
+A GUI "to-do list" arranged in the order that the user chooses to prioritize the events in.
 
 
 3. Input: Describe the data that is needed to solve your problem. Include an example format of the input data.
 
+The user will input the information needed in GUI pop up.
 
 
 4. User Interface: Describe a user interface for your program.  Use text menus or a simple graphic user interface.
-
+We plan on using a simple graphic user interface so different users can sign into their account and see their personal list.
+The GUI will display ouput based on the user's input.
 
 5. Types List: Break your solution idea down into units that you think can be implemented with a single class.
 
