@@ -1,4 +1,4 @@
-# X-Team 51 Rules
+# X-Team NN Rules
 
 These rules establish how our team will assign tasks,
 track progress on each task, and communicate with each other 
@@ -10,16 +10,16 @@ and missed deadlines.
 
 ## How we will assign (and reassign) tasks
 
-We will assign tasks in the groupchat containing all of the members. 
+
 
 ## How will we will track progress (and follow-up) on completion of tasks
-
+We will track progress by setting goals and making sure everyone is on the 
+same page as far as completion of the assignment.
 
 
 ## How will will communicate difficulties with a task assigned to us
 
-We will message each other in a text group chat to communicate difficulties. 
-Others will be able to respond to the message and help out with information. 
+
 
 ## How we will back up each other to ensure that deadlines are not missed
 
