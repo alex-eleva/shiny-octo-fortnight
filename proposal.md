@@ -51,7 +51,8 @@ The user will input the information needed in GUI pop up.
 
 
 4. User Interface: Describe a user interface for your program.  Use text menus or a simple graphic user interface.
-
+We plan on using a simple graphic user interface so different users can sign into their account and see their personal list.
+The GUI will display ouput based on the user's input.
 
 5. Types List: Break your solution idea down into units that you think can be implemented with a single class.
 
