@@ -7,9 +7,9 @@
 
 2. Answer these questions
    * What are the GitHub usernames and names of your team members?
-       alex-eleva   Alex Elevathingal
-       aallen27     Aniya Allen
-       katsyni      Kathy Ni
+       * alex-eleva   Alex Elevathingal
+       * aallen27     Aniya Allen
+       * katsyni      Kathy Ni
      
    * When did you complete this exercise?
    
