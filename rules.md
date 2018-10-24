@@ -10,7 +10,8 @@ and missed deadlines.
 
 ## How we will assign (and reassign) tasks
 
-
+We will assign tasks by (for the most part) evenly distributing them between the group, based on who wants to do which task.
+In order to reassign tasks, the same system will be used. 
 
 ## How will we will track progress (and follow-up) on completion of tasks
 We will track progress by setting goals and making sure everyone is on the 
