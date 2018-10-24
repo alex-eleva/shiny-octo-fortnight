@@ -35,15 +35,17 @@ Our program aims to solve that problem by allowing users to schedule tasks, and 
 
 We plan to test our program by testing different classes and their functionality. We are most likely going to use JUnit to achieve this. 
 
-**1. Name: Task Manager**
+**1. Name:** 
+
+Task Manager
 
 **2. Output: Describe the output your program will produce.  Include and example format of the output produced.**
 
-A GUI "to-do list" arranged in the order that the user chooses to prioritize the events in.
+A GUI "to-do list" arranged in the order that the user chooses to prioritize the events in. See Figure 2.
 
 **3. Input: Describe the data that is needed to solve your problem. Include an example format of the input data.**
 
-The user will input the information needed in GUI pop up.
+The user will input the information needed in GUI pop up. The user will also input their login credentials to view their account. See Figure 1.
 
 **4. User Interface: Describe a user interface for your program.  Use text menus or a simple graphic user interface.**
 
@@ -61,6 +63,8 @@ The GUI will display ouput based on the user's input.
  * List Class
  Keeps track of verious task lists. 
  
+ * Custom Priority Queue
+ We are planning to implement a custom priority queue that is able to sort the tasks according to certain criteria. We have not fully hashed out the specifics of the data structure, but our goal is to have several of the key methods (enqueue and dequeue to perform based on more than just comparing key values). 
 
 
 
