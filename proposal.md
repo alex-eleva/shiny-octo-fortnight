@@ -32,6 +32,9 @@ Be sure to submit corresponding image files, i.e. figure1.png (or figure1.jpg) f
 Briefly describe a problem that your team would like to solve.  
 Describe at a high level a program that could solve that problem.
 
+A problem that our team would like to solve is the problem of managing/scheduling/prioritizing various events and tasks effectively, in order to be efficient in our day to day lives. 
+
+Our program aims to solve that problem by allowing users to schedule events and tasks, and prioritize them based on different criteria (type of event, date, etc)
 ## Questions to answer for Exercise #2
 
 1. Name: Give your project proposal a name (and edit the top line of this file)
@@ -49,12 +52,13 @@ Describe at a high level a program that could solve that problem.
 4. User Interface: Describe a user interface for your program.  Use text menus or a simple graphic user interface.
 
 
-
 5. Types List: Break your solution idea down into units that you think can be implemented with a single class.
 
 
 
 Name each interface or class and briefly describe its function or purpose.
+
+
 
 
 ## Edit and Submit this file and any figures referenced by this document.
